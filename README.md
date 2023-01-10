@@ -7,7 +7,7 @@ Projeto desenvolvido para aprovação no módulo de Testes do BootCamp Spring / 
 
 **Enunciado:**
 
-Implementar as funcionalidades necessárias para que os testes do projeto passem
+Implementar as funcionalidades necessárias para que os testes do projeto passem.
 
 
 
